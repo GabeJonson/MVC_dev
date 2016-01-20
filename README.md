@@ -61,5 +61,6 @@
         "url":"fnc=table&table=user"
       }
 }]
+
 ---
 Которые я обрабатывал при помощи jQuery
